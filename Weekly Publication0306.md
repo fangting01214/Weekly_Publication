@@ -17,8 +17,8 @@
 * `了解` git基本原理
 
 ### 周四
-* `了解` 广告投放策略
-* `了解` RTB模式以及DSP、SSP、Ad Exchange等平台
+* `了解` 广告投放策略；RTB模式以及DSP、SSP、Ad Exchange等平台
+* `了解` Axure其他应用技巧
 
 ### 周五
 
